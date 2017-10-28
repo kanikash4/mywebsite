@@ -159,10 +159,10 @@ a.button span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
 #educationImg {
-  background: transparent url(../images/Education.png) 12px 50% no-repeat;
+  background: transparent url(../images/Education.png) 5px 10% no-repeat;
 }
 #skillsImg {
-  background: transparent url(../images/skillsLogo.png) 12px 50% no-repeat;
+  background: transparent url(../images/skillsLogo.png) 5px 15% no-repeat;
 }
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
