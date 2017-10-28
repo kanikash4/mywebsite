@@ -209,6 +209,8 @@ a.button span {
   height: 15%;
   width: 12%;
   background: transparent url(../images/me.jpg) no-repeat;
+  float: left;
+  display: inline;
 }
 
 
@@ -367,6 +369,7 @@ footer {
   position: absolute;
   bottom: 0px;
   text-align: center;
+  width: 100%;
 }
 
 footer a {
