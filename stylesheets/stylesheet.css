@@ -185,7 +185,9 @@ a.button span {
   text-decoration:underline;
 }
 
-
+.personalDetails {
+  display: inline;
+}
 
 
 code, pre {
