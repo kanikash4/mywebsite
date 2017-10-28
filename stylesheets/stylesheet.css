@@ -201,6 +201,16 @@ a.button span {
   float: left;
   display: inline;
 }
+.personal-details-list {
+  list-style: none;
+}
+
+.personal-details-list .detail-item {
+  border-bottom: 1px solid #e1e1e1;
+  color: #252525;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 16px;
+}
 
 .clear-both {
   clear: both;
