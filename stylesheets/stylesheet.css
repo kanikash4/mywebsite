@@ -191,7 +191,14 @@ a.button span {
 }
 
 .personalDetails {
+  float: left;
   display: inline;
+}
+
+.myImage {
+  height: 15%;
+  width: 12%;
+  background: transparent url(../images/me.jpg) no-repeat;
 }
 
 
