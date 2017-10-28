@@ -195,6 +195,9 @@ a.button span {
   display: inline;
 }
 
+.clear-both {
+  clear: both;
+}
 .myImage {
   height: 15%;
   width: 12%;
