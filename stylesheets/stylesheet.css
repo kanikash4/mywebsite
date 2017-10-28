@@ -53,7 +53,7 @@ body {
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+  background: transparent url(../images/wallpaper.png) 0 0 repeat;
 }
 
 a {
@@ -170,6 +170,23 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
+#mainHeader {
+  margin:0px;
+  padding:0px;
+  width:100%;
+}
+#mainHeader h1 {
+  display:inline;
+}
+#mainHeader ul li {
+  display:inline;
+}
+#mainHeader ul li a:hover {
+  text-decoration:underline;
+}
+
+
+
 
 code, pre {
   margin-bottom: 30px;
