@@ -158,6 +158,12 @@ a.button span {
 #download-tar-gz span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
+#educationImg {
+  background: transparent url(../images/Education.png) 12px 50% no-repeat;
+}
+#skillsImg {
+  background: transparent url(../images/skillsLogo.png) 12px 50% no-repeat;
+}
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
@@ -353,6 +359,10 @@ footer a:hover {
   header {
     padding-top: 10px;
     padding-bottom: 10px;
+    margin: 2px 2px 2px 2px;
+  }
+  header a:hover {
+   color: #323c53;
   }
   #downloads {
     margin-bottom: 25px;
