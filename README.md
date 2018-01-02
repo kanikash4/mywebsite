@@ -19,4 +19,4 @@ npm run bundle
 
 npm start
 ````
-You can view the site at [`http://localhost:8080`](http://localhost:8080).
+You can view the site at [`http://localhost:8080`](http://localhost:8080)
