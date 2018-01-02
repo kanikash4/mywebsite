@@ -22,17 +22,30 @@
             {
                 "network": "<NETWORK>",
                 "username": "<USERNAME>",
-                "url": "<URL>"
+                "url": "about.me/kanikash4"
             }
         ]
     },
     "work": [
         {
-            "company": "<COMPANY_NAME>",
-            "position": "<POSITION>",
-            "website": "<COMPANY_WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
+            "company": "Paytm",
+            "position": "Software Engineer",
+            "website": "www.paytm.com",
+            "startDate": "21-12-2015",
+            "endDate": "Till Date",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        },
+        {
+            "company": "Prolifics",
+            "position": "Trainee Software Engineer",
+            "website": "https://www.prolifics.com/",
+            "startDate": "06-10-2014",
+            "endDate": "05-09-2015",
             "summary": "<SUMMARY>",
             "highlights": [
                 "<HIGHTLIGHT_1>",
