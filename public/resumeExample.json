@@ -1,9 +1,9 @@
 {
     "basics": {
-        "name": "Kanika Sharma",
-        "label": "Software Engineer",
+        "name": "<FULL_NAME>",
+        "label": "<PROFESSION>",
         "picture": "<PHOTO>",
-        "email": "kanikash4@gmail.com",
+        "email": "<EMAIL_ADDRESS>",
         "phone": "<PHONE_NUMBER>",
         "website": "<WEBSITE>",
         "summary": [
@@ -14,8 +14,8 @@
         "location": {
             "address": "<ADDRESS>",
             "postalCode": "<POSTAL_CODE>",
-            "city": "Noida",
-            "countryCode": "India",
+            "city": "<CITY>",
+            "countryCode": "<COUNTRY>",
             "region": "<REGION>"
         },
         "profiles": [
