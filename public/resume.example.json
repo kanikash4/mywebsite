@@ -4,7 +4,6 @@
         "label": "Software Engineer",
         "picture": "<PHOTO>",
         "email": "kanikash4@gmail.com",
-        "phone": "<PHONE_NUMBER>",
         "website": "<WEBSITE>",
         "summary": [
             "<SUMMARY_1>",
@@ -12,8 +11,8 @@
             "<SUMMARY_3>"
         ],
         "location": {
-            "address": "<ADDRESS>",
-            "postalCode": "<POSTAL_CODE>",
+            "address": "Noida",
+            "postalCode": "201301",
             "city": "Noida",
             "countryCode": "India",
             "region": "<REGION>"
@@ -21,8 +20,13 @@
         "profiles": [
             {
                 "network": "<NETWORK>",
-                "username": "<USERNAME>",
+                "username": "kanikash4",
                 "url": "about.me/kanikash4"
+            },
+                        {
+                "network": "LinkedIn",
+                "username": "kanikasharma",
+                "url": "https://www.linkedin.com/in/kanikash4/"
             }
         ]
     },
@@ -35,9 +39,9 @@
             "endDate": "Till Date",
             "summary": "<SUMMARY>",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+                "Created and managing service : Fulfillemnt GiftCards",
+                "Created and managing service : Fulfillment Deals",
+                "Created and about to go live service : Subscriptions"
             ]
         },
         {
@@ -48,9 +52,7 @@
             "endDate": "05-09-2015",
             "summary": "<SUMMARY>",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+                "Worked as a Full stack Developer."
             ]
         }
     ],
@@ -64,31 +66,30 @@
             "summary": "<SUMMARY>",
             "highlights": [
                 "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+                "<HIGHTLIGHT_2>"
             ]
         }
     ],
     "education": [
         {
-            "institution": "<INSTITUTION_NAME>",
-            "area": "<AREA_OF_STUDY>",
-            "studyType": "<STUDY_TYPE>",
+            "institution": "DBIT",
+            "area": "B.Tech",
+            "studyType": "Computer Science Engineering",
             "startDate": "<START_DATE>",
             "endDate": "<END_DATE>",
             "gpa": "<GRADE_POINT_AVERAGE>",
             "summary": "<SUMMARY>",
             "courses": [
-                "<COURSE_1>",
-                "<COURSE_2>",
-                "<COURSE_3>"
+                "Data Structures",
+                "Operating System",
+                "Computer Newtorks"
             ]
         }
     ],
     "awards": [
         {
-            "title": "<AWARD_TITLE>",
-            "date": "<DATE>",
+            "title": "Guinness World Record",
+            "date": "25-OCT-2015",
             "awarder": "<AWARDER>",
             "summary": "<SUMMARY>"
         }
@@ -114,11 +115,10 @@
     ],
     "skills": [
         {
-            "title": "<DESCRIPTION_TITLE>",
+            "title": "Programming Languages",
             "description": [
-                "<DESCRIPTION_1>",
-                "<DESCRIPTION_2>",
-                "<DESCRIPTION_3>"
+                "Working primarily with JavaScript with frameworks such as Express.js, React.js.",
+                "Interested in functional programming, Cryptocurrency, Machine Learning and serverless architectures."
             ],
             "skillDetails": [
                 {
@@ -131,7 +131,21 @@
                     ]
                 }
             ]
+        },
+        {
+            "title": "Database Systems.and Aurora RDS flavour of MySQL, with personal further projects utilizing RethinkDB.",
+            "description": [
+                "Experienced in both SQL and NoSQL",
+                "Have worked in companies making use of MongoDB, MySQL, Elastic Search."],
+            "skillDetails":[
+                {
+                    "name": "",
+                    "level": "",
+                    "keywords":[""]
+                }
+            ]
         }
+          
     ],
     "languages": [
         {
@@ -141,7 +155,15 @@
     ],
     "interests": [
         {
-            "name": "<INTEREST_NAME>",
+            "name": "Net Surfing",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        },
+        {
+            "name": "Doodling",
             "keywords": [
                 "<KEYWORD_1>",
                 "<KEYWORD_2>",
