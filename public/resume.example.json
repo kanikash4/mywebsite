@@ -6,9 +6,8 @@
         "email": "kanikash4@gmail.com",
         "website": "<WEBSITE>",
         "summary": [
-            "<SUMMARY_1>",
-            "<SUMMARY_2>",
-            "<SUMMARY_3>"
+            "A passionate Software Engineer mainly focused on web development who believes anything is possible and rarely take no for an answer and enjoys being challenged and mastering new technologies.",
+            "Interested in challenging technical roles in scaling distributed web applications."
         ],
         "location": {
             "address": "Noida",
@@ -19,7 +18,7 @@
         },
         "profiles": [
             {
-                "network": "<NETWORK>",
+                "network": "AboutMe",
                 "username": "kanikash4",
                 "url": "about.me/kanikash4"
             },
@@ -122,8 +121,8 @@
             ],
             "skillDetails": [
                 {
-                    "name": "<SKILL_NAME>",
-                    "level": "<SKILL_LEVEL>",
+                    "name": "Javascript",
+                    "level": "85",
                     "keywords": [
                         "<KEYWORD_1>",
                         "<KEYWORD_2>",
@@ -133,14 +132,29 @@
             ]
         },
         {
-            "title": "Database Systems.and Aurora RDS flavour of MySQL, with personal further projects utilizing RethinkDB.",
+            "title": "Database Systems",
             "description": [
-                "Experienced in both SQL and NoSQL",
+                "Experienced in both SQL and NoSQL.",
                 "Have worked in companies making use of MongoDB, MySQL, Elastic Search."],
             "skillDetails":[
                 {
-                    "name": "",
-                    "level": "",
+                    "name": "MYSQL",
+                    "level": "80",
+                    "keywords":[""]
+                },
+                {
+                    "name": "Elastic Search",
+                    "level": "65",
+                    "keywords":[""]
+                },
+                {
+                    "name": "MongoDB",
+                    "level": "55",
+                    "keywords":[""]
+                },
+                {
+                    "name": "Redis",
+                    "level": "50",
                     "keywords":[""]
                 }
             ]
