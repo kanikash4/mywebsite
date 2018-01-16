@@ -2,7 +2,7 @@
     "basics": {
         "name": "Kanika Sharma",
         "label": "Software Engineer",
-        "picture": "<PHOTO>",
+        "picture": "/profile.jpg",
         "email": "kanikash4@gmail.com",
         "website": "<WEBSITE>",
         "summary": [
@@ -18,7 +18,7 @@
         },
         "profiles": [
             {
-                "network": "AboutMe",
+                "network": "about.Me",
                 "username": "kanikash4",
                 "url": "about.me/kanikash4"
             },
@@ -38,6 +38,7 @@
             "endDate": "Till Date",
             "summary": "<SUMMARY>",
             "highlights": [
+                "Initially Worked in Movies vertical",
                 "Created and managing service : Fulfillemnt GiftCards",
                 "Created and managing service : Fulfillment Deals",
                 "Created and about to go live service : Subscriptions"
@@ -89,7 +90,7 @@
         {
             "title": "Guinness World Record",
             "date": "25-OCT-2015",
-            "awarder": "<AWARDER>",
+            "awarder": "<Guinness World Record",
             "summary": "<SUMMARY>"
         }
     ],
@@ -149,7 +150,7 @@
                 },
                 {
                     "name": "MongoDB",
-                    "level": "55",
+                    "level": "35",
                     "keywords":[""]
                 },
                 {
@@ -163,26 +164,28 @@
     ],
     "languages": [
         {
-            "name": "<LANGUAGE_NAME>",
-            "level": "<LANGUAGE_LEVEL>"
+            "name": "English",
+            "level": "100"
+        },
+        {
+            "name": "Hindi",
+            "level": "100"
         }
     ],
     "interests": [
         {
             "name": "Net Surfing",
             "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
+                "trending technologies",
+                "<KEYWORD_2>"
             ]
         },
         {
             "name": "Doodling",
             "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
-            ]
+                "creative sketches",
+                "tiny sketches"
+        ]
         }
     ],
     "references": [
