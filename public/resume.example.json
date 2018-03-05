@@ -10,15 +10,15 @@
             "Interested in challenging technical roles in scaling distributed web applications."
         ],
         "location": {
-            "address": "Noida",
-            "postalCode": "201301",
-            "city": "Noida",
+            "address": "Hyderabad",
+            "postalCode": "500081",
+            "city": "Hyderabad",
             "countryCode": "India",
             "region": "<REGION>"
         },
         "profiles": [
             {
-                "network": "about.Me",
+                "network": "aboutme",
                 "username": "kanikash4",
                 "url": "about.me/kanikash4"
             },
@@ -30,18 +30,28 @@
         ]
     },
     "work": [
+                {
+            "company": "CatchThatBus",
+            "position": "Senior Software Engineer",
+            "website": "www.paytm.com",
+            "startDate": "06-02-2018",
+            "endDate": "Till Date",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "Initially Worked in Movies vertical",
+                "Created and managing service : Fulfillemnt GiftCards, Fulfillment Deals",
+                "Created service yet to go live : Subscriptions"
+            ]
+        },
         {
             "company": "Paytm",
             "position": "Software Engineer",
             "website": "www.paytm.com",
             "startDate": "21-12-2015",
-            "endDate": "Till Date",
+            "endDate": "02-02-2018",
             "summary": "<SUMMARY>",
             "highlights": [
-                "Initially Worked in Movies vertical",
-                "Created and managing service : Fulfillemnt GiftCards",
-                "Created and managing service : Fulfillment Deals",
-                "Created and about to go live service : Subscriptions"
+                "Creating the e-commerce platform for Malaysia."
             ]
         },
         {
@@ -129,6 +139,15 @@
                         "<KEYWORD_2>",
                         "<KEYWORD_3>"
                     ]
+                },
+                {
+                    "name": "Java",
+                    "level": "45",
+                    "keywords": [
+                        "Play Framework",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
                 }
             ]
         },
@@ -150,7 +169,7 @@
                 },
                 {
                     "name": "MongoDB",
-                    "level": "35",
+                    "level": "55",
                     "keywords":[""]
                 },
                 {
