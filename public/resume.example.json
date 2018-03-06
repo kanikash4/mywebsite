@@ -160,7 +160,7 @@
                 {
                     "name": "MYSQL",
                     "level": "80",
-                    "keywords":[""]
+                    "keywords":["SQL Databases"]
                 },
                 {
                     "name": "Elastic Search",
@@ -170,12 +170,13 @@
                 {
                     "name": "MongoDB",
                     "level": "55",
-                    "keywords":[""]
+                    "keywords":["document database",
+                                "Document-based Store"]
                 },
                 {
                     "name": "Redis",
                     "level": "50",
-                    "keywords":[""]
+                    "keywords":["key-value store"]
                 }
             ]
         }
