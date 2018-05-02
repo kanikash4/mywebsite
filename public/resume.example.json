@@ -34,32 +34,32 @@
             "company": "CatchThatBus",
             "position": "Senior Software Engineer",
             "website": "www.paytm.com",
-            "startDate": "06-02-2018",
+            "startDate": "2018-02-06",
             "endDate": "Till Date",
-            "summary": "<SUMMARY>",
+            "summary": "Building the e-commerce platform for Malaysia",
             "highlights": [
-                "Initially Worked in Movies vertical",
-                "Created and managing service : Fulfillemnt GiftCards, Fulfillment Deals",
-                "Created service yet to go live : Subscriptions"
+                "Creating the e-commerce platform for Malaysia: currently aligned with building different panels and verticals."
             ]
         },
         {
             "company": "Paytm",
             "position": "Software Engineer",
             "website": "www.paytm.com",
-            "startDate": "21-12-2015",
-            "endDate": "02-02-2018",
-            "summary": "<SUMMARY>",
+            "startDate": "2015-12-21",
+            "endDate": "2018-02-02",
+            "summary": "Involved in extensive interaction with various stakeholders to finalize API requirements. Technology Stack: Node.js, MYSQL, Elastic Search, Redis",
             "highlights": [
-                "Creating the e-commerce platform for Malaysia."
+                "Initially Worked in Movies vertical",
+                "Created and managed end-end service : Fulfillemnt GiftCards, Fulfillment Deals",
+                "Created service yet to go live : Subscriptions"
             ]
         },
         {
             "company": "Prolifics",
             "position": "Trainee Software Engineer",
             "website": "https://www.prolifics.com/",
-            "startDate": "06-10-2014",
-            "endDate": "05-09-2015",
+            "startDate": "2014-10-06",
+            "endDate": "2015-09-05",
             "summary": "<SUMMARY>",
             "highlights": [
                 "Worked as a Full stack Developer."
@@ -85,9 +85,22 @@
             "institution": "DBIT",
             "area": "B.Tech",
             "studyType": "Computer Science Engineering",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "gpa": "<GRADE_POINT_AVERAGE>",
+            "startDate": "2011-07-01",
+            "endDate": "2014-05-15",
+            "gpa": "75.2",
+            "summary": "<SUMMARY>",
+            "courses": [
+                "Data Structures",
+                "Operating System",
+                "Computer Newtorks"
+            ]
+        },
+        {
+            "institution": "Govt Polytechnic Kandaghat",
+            "area": "Diploma",
+            "studyType": "Computer Science Engineering",
+            "startDate": "2007-07-01",
+            "endDate": "2010-05-15",
             "summary": "<SUMMARY>",
             "courses": [
                 "Data Structures",
@@ -101,7 +114,7 @@
             "title": "Guinness World Record",
             "date": "25-OCT-2015",
             "awarder": "<Guinness World Record",
-            "summary": "<SUMMARY>"
+            "summary": "Guinness world record for folk dance in massive participation: This record is for the greatest number of people attending and participating in a Nati dance(folk dance) lesson at a single venue. Kullu folk dance (Nati) was named 'Pride of Kullu' and purpose of organising such a huge group dance was to deliver the awareness and message of 'Beti hai Anmol' (Saving the girl child). Total 9892 people participated in their traditional colourful dress on 26 October 2015 during International Dussehra Festival which is a centuries old festival for continuous 50 minutes."
         }
     ],
     "projects": [
@@ -135,18 +148,14 @@
                     "name": "Javascript",
                     "level": "85",
                     "keywords": [
-                        "<KEYWORD_1>",
-                        "<KEYWORD_2>",
-                        "<KEYWORD_3>"
+                        "Node.js"
                     ]
                 },
                 {
                     "name": "Java",
-                    "level": "45",
+                    "level": "55",
                     "keywords": [
-                        "Play Framework",
-                        "<KEYWORD_2>",
-                        "<KEYWORD_3>"
+                        "Play Framework"
                     ]
                 }
             ]
@@ -155,7 +164,7 @@
             "title": "Database Systems",
             "description": [
                 "Experienced in both SQL and NoSQL.",
-                "Have worked in companies making use of MongoDB, MySQL, Elastic Search."],
+                "Have worked in companies making use of MongoDB, MySQL, Elastic Search, Redis."],
             "skillDetails":[
                 {
                     "name": "MYSQL",
@@ -165,7 +174,7 @@
                 {
                     "name": "Elastic Search",
                     "level": "65",
-                    "keywords":[""]
+                    "keywords":["elastic-search"]
                 },
                 {
                     "name": "MongoDB",
@@ -197,7 +206,7 @@
             "name": "Net Surfing",
             "keywords": [
                 "trending technologies",
-                "<KEYWORD_2>"
+                "Data Structures"
             ]
         },
         {
