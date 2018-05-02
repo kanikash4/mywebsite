@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Kanika Sharma",
-        "label": "Software Engineer",
+        "label": "Senior Software Engineer",
         "picture": "/profile.jpg",
         "email": "kanikash4@gmail.com",
         "website": "<WEBSITE>",
@@ -14,15 +14,15 @@
             "postalCode": "500081",
             "city": "Hyderabad",
             "countryCode": "India",
-            "region": "<REGION>"
+            "region": "Hyderabad, Telangana"
         },
         "profiles": [
             {
-                "network": "aboutme",
+                "network": "AboutMe",
                 "username": "kanikash4",
-                "url": "about.me/kanikash4"
+                "url": "https://about.me/kanikash4"
             },
-                        {
+            {
                 "network": "LinkedIn",
                 "username": "kanikasharma",
                 "url": "https://www.linkedin.com/in/kanikash4/"
@@ -50,7 +50,7 @@
             "summary": "Involved in extensive interaction with various stakeholders to finalize API requirements. Technology Stack: Node.js, MYSQL, Elastic Search, Redis",
             "highlights": [
                 "Initially Worked in Movies vertical",
-                "Created and managed end-end service : Fulfillemnt GiftCards, Fulfillment Deals",
+                "Created and managed end-to-end service : Fulfillemnt GiftCards, Fulfillment Deals",
                 "Created service yet to go live : Subscriptions"
             ]
         },
