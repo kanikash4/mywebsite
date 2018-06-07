@@ -33,7 +33,7 @@
                 {
             "company": "CatchThatBus",
             "position": "Senior Software Engineer",
-            "website": "www.paytm.com",
+            "website": "https://www.myboost.com.my/",
             "startDate": "2018-02-06",
             "endDate": "Till Date",
             "summary": "Building the e-commerce platform for Malaysia",
@@ -60,7 +60,7 @@
             "website": "https://www.prolifics.com/",
             "startDate": "2014-10-06",
             "endDate": "2015-09-05",
-            "summary": "<SUMMARY>",
+            "summary": "Worked on the whole SDLC processes: Design, development, Testing",
             "highlights": [
                 "Worked as a Full stack Developer."
             ]
@@ -113,7 +113,7 @@
         {
             "title": "Guinness World Record",
             "date": "25-OCT-2015",
-            "awarder": "<Guinness World Record",
+            "awarder": "Guinness World Record",
             "summary": "Guinness world record for folk dance in massive participation: This record is for the greatest number of people attending and participating in a Nati dance(folk dance) lesson at a single venue. Kullu folk dance (Nati) was named 'Pride of Kullu' and purpose of organising such a huge group dance was to deliver the awareness and message of 'Beti hai Anmol' (Saving the girl child). Total 9892 people participated in their traditional colourful dress on 26 October 2015 during International Dussehra Festival which is a centuries old festival for continuous 50 minutes."
         }
     ],
@@ -174,7 +174,8 @@
                 {
                     "name": "Elastic Search",
                     "level": "65",
-                    "keywords":["elastic-search"]
+                    "keywords":["elastic-search",
+                                "NoSQL"]
                 },
                 {
                     "name": "MongoDB",
